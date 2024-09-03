@@ -1,8 +1,8 @@
 #!/bin/bash
 
 # 定义文件路径
-JSON_FILE="../geo-lite/geosite/cn.json"
-SRS_FILE="../sh/cn.srs"
+JSON_FILE="../geo/geosite/cn.json"
+SRS_FILE="../geo/geosite/cn.srs"
 
 # 检查 cn.json 文件是否存在
 if [ -f "$JSON_FILE" ]; then
