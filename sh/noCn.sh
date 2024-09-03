@@ -8,6 +8,7 @@ SRS_FILE="../geo/geosite/noCn.srs"
 if [ -f "$JSON_FILE" ]; then
     # 编译 JSON 文件为 SRS 文件，并覆盖已存在的 SRS 文件
     sing-box rule-set compile --output "$SRS_FILE" "$JSON_FILE"
+    mv noCn.srs geolocation-!cn.srs
     echo "Successfully compiled $JSON_FILE to $SRS_FILE."
 else
     echo "Error: $JSON_FILE does not exist."
