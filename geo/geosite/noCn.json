@@ -4,6 +4,7 @@
     {
       "domain": [
         "speedtest.net",
+        "macked.app",
         "3dns-1.adobe.com",
         "3dns-2.adobe.com",
         "3dns-3.adobe.com",
@@ -470,6 +471,7 @@
         "ztedevices.com"
       ],
       "domain_suffix": [
+        "macked.app",
         "speedtest.net",
         "adult",
         "zappos",
