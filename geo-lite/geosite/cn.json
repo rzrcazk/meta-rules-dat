@@ -3,6 +3,9 @@
   "rules": [
     {
       "domain": [
+        "952712.xyz",
+        "juanshen.eu.org",
+        "cloudflare.com",
         "analytics.strava.com",
         "blzddist1-a.akamaihd.net",
         "cdn.angruo.com",
@@ -20,6 +23,9 @@
         "www.yxssp.com"
       ],
       "domain_suffix": [
+        "952712.xyz",
+        "juanshen.eu.org",
+        "cloudflare.com",
         "00cdn.com",
         "0123456789.com",
         "0379home.com",
